@@ -1,5 +1,4 @@
-﻿```markdown
-# Clients API
+﻿# Clients API
 
 ASP.NET Core 8 Web API для управления клиентами с использованием PostgreSQL.
 
@@ -32,7 +31,7 @@ ASP.NET Core 8 Web API для управления клиентами с исп�
   "username": "john_doe",
   "systemId": "a1b2c3d4-e5f6-7890-abcd-ef1234567890"
 }
-```
+
 
 ## DTO для создания/обновления
 
@@ -52,7 +51,7 @@ ASP.NET Core 8 Web API для управления клиентами с исп�
 
 1. Клонируйте репозиторий
 ```bash
-git clone <url-репозитория>
+git clone https://github.com/kodents/iikoApplication
 cd iikoApplication
 ```
 
