@@ -1,0 +1,6 @@
+@iikoApplication_HostAddress = http://localhost:5059
+
+GET {{iikoApplication_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
